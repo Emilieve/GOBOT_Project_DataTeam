@@ -19,7 +19,7 @@ function onFormSubmit(event) {
     record_array.push(answer);
   }
 
-  AddRecord(record_array[0], record_array[1]);
+  AddRecord(record_array[0], record_array[1]);                                           // Add the data to a new row.
 
 }
 
