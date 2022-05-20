@@ -1,121 +1,121 @@
 {
-    "apple"={
-        "registered"=false
-    }.
-    "ebay"={
-        "registered"=null
-    }.
-    "facebook"={
-        "registered"=true.
-        "url"=null.
-        "name"=null.
-        "photo"=null
-    }.
-    "flickr"={
-        "registered"=false
-    }.
-    "foursquare"={
-        "registered"=false
-    }.
-    "github"={
-        "registered"=false
-    }.
-    "google"={
-        "registered"=false.
-        "photo"=null
-    }.
-    "gravatar"={
-        "registered"=false
-    }.
-    "instagram"={
-        "registered"=true
-    }.
-    "lastfm"={
-        "registered"=false
-    }.
-    "linkedin"={
-        "registered"=false.
-        "url"=null.
-        "name"=null.
-        "company"=null.
-        "title"=null.
-        "location"=null.
-        "website"=null.
-        "twitter"=null.
-        "photo"=null
-    }.
-    "microsoft"={
-        "registered"=true
-    }.
-    "myspace"={
-        "registered"=false
-    }.
-    "pinterest"={
-        "registered"=false
-    }.
-    "skype"={
-        "registered"=false.
-        "country"=null.
-        "city"=null.
-        "gender"=null.
-        "name"=null.
-        "id"=null.
-        "handle"=null.
-        "bio"=null.
-        "age"=null.
-        "language"=null.
-        "state"=null.
-        "photo"=null
-    }.
-    "spotify"={
-        "registered"=true
-    }.
-    "tumblr"={
-        "registered"=false
-    }.
-    "twitter"={
-        "registered"=true
-    }.
-    "vimeo"={
-        "registered"=false
-    }.
-    "weibo"={
-        "registered"=false
-    }.
-    "yahoo"={
-        "registered"=false
-    }.
-    "discord"={
-        "registered"=false
-    }.
-    "ok"={
-        "registered"=false.
-        "city"=null.
-        "age"=null.
-        "date_joined"=null
-    }.
-    "kakao"={
-        "registered"=null
-    }.
-    "booking"={
-        "registered"=false
-    }.
-    "airbnb"={
-        "registered"=false.
-        "about"=null.
-        "created_at"=null.
-        "first_name"=null.
-        "identity_verified"=null.
-        "location"=null.
-        "image"=null.
-        "reviewee_count"=null.
-        "trips"=null.
-        "work"=null
-    }.
-    "amazon"={
-        "registered"=false
-    }.
-    "qzone"={
-        "registered"=false
+    "apple": {
+        "registered": false
+    },
+    "ebay": {
+        "registered": false
+    },
+    "facebook": {
+        "registered": true,
+        "url": null,
+        "name": null,
+        "photo": null
+    },
+    "flickr": {
+        "registered": false
+    },
+    "foursquare": {
+        "registered": false
+    },
+    "github": {
+        "registered": false
+    },
+    "google": {
+        "registered": false,
+        "photo": null
+    },
+    "gravatar": {
+        "registered": false
+    },
+    "instagram": {
+        "registered": true
+    },
+    "lastfm": {
+        "registered": false
+    },
+    "linkedin": {
+        "registered": true,
+        "url": null,
+        "name": null,
+        "company": null,
+        "title": null,
+        "location": null,
+        "website": null,
+        "twitter": null,
+        "photo": null
+    },
+    "microsoft": {
+        "registered": true
+    },
+    "myspace": {
+        "registered": false
+    },
+    "pinterest": {
+        "registered": false
+    },
+    "skype": {
+        "registered": false,
+        "country": null,
+        "city": null,
+        "gender": null,
+        "name": null,
+        "id": null,
+        "handle": null,
+        "bio": null,
+        "age": null,
+        "language": null,
+        "state": null,
+        "photo": null
+    },
+    "spotify": {
+        "registered": true
+    },
+    "tumblr": {
+        "registered": false
+    },
+    "twitter": {
+        "registered": true
+    },
+    "vimeo": {
+        "registered": false
+    },
+    "weibo": {
+        "registered": false
+    },
+    "yahoo": {
+        "registered": false
+    },
+    "discord": {
+        "registered": false
+    },
+    "ok": {
+        "registered": false,
+        "city": null,
+        "age": null,
+        "date_joined": null
+    },
+    "kakao": {
+        "registered": null
+    },
+    "booking": {
+        "registered": false
+    },
+    "airbnb": {
+        "registered": false,
+        "about": null,
+        "created_at": null,
+        "first_name": null,
+        "identity_verified": null,
+        "location": null,
+        "image": null,
+        "reviewee_count": null,
+        "trips": null,
+        "work": null
+    },
+    "amazon": {
+        "registered": false
+    },
+    "qzone": {
+        "registered": false
     }
 }

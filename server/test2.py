@@ -88,7 +88,7 @@ def main():
 
         # save the data into SERVER
         with open(user_name + ".json", "w") as file:
-            json.dump(userData, file, indent=4, separators=(".","="))
+            json.dump(userData, file, indent=4)
     print('exit: 0')
 
 # Delete unregistered account
