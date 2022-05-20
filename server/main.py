@@ -58,7 +58,6 @@ def main():
         # Save the credentials for the next run
         with open('token.json', 'w') as token:
             token.write(creds.to_json())
-    print('exit: 200')
 
     try:
         service = build('sheets', 'v4', credentials=creds)
@@ -71,8 +70,7 @@ def main():
 
         if not values:
             print('No data found.')
-            return
-        print('retrieve data: completed')
+            return 1
     except HttpError as err:
         print(err)
 
