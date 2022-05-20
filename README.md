@@ -9,6 +9,10 @@ We set up a google sheet to manage our user data and also to keep track of our s
 
   - chat bot -
 
+APPENDIX:
+- Google Sheet API document and reference: https://developers.google.com/sheets/api/reference/rest?authuser=2&hl=en
+- SEON API document: https://docs.seon.io/api-reference#quick-start
+
 TO TEST CODE FOR DATA USER, SCAN THE QR CODE BELOW:
 
 ![QRtiger](https://user-images.githubusercontent.com/51713512/169175493-28a03588-0e9e-41e1-bbb7-3723852d63d6.png)
